@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 
 
-#change path to chromedriver.exe
-linkcon = webdriver.Chrome("D:\linkdin\chromedriver.exe")
+#change path to your local chromedriver.exe
+linkcon = webdriver.Chrome("D:\Your\Path\chromedriver.exe")
 linkcon.maximize_window()
 
 
