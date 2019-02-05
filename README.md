@@ -1,5 +1,7 @@
 # linkdinscript
 
+expand your linkdin connections by one click!
+
 
 How to use ?
 
