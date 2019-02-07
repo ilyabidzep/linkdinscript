@@ -8,7 +8,7 @@ How to use ?
 
 * download the rar file, extract the folder to your drive partition 
 * open LinkDInScript.py by notepad++ or any editor you got
-* change the path of chromedriver to your local path (the chromedriver.exe is attached to rar file)
+  change the path of chromedriver to your local path (the chromedriver.exe is attached to rar file)
   linkcon = webdriver.Chrome("D:\Your\Path\chromedriver.exe") - save, then close. 
 
 * Open terminal/cmd through the folder where the script is located
